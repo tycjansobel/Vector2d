@@ -1,5 +1,5 @@
 ## Vector2d
-Physical library supporting vectors calculations.
+Library for vector calculations.
 
 ### Available language implementation
 - [C++](https://github.com/mrtycjan/Vector2d#for-c)
